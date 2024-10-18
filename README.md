@@ -1,3 +1,3 @@
 ﻿# Proyek Pertama dengan Git
 
-Terjadi Konflik
+Terjadi Konflik dari master
